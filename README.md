@@ -22,11 +22,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChayTime&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<!-- <p align="center"> 
+<p align="center"> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="48" height="48"/> </a>  
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="python" width="48" height="48"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="48" height="48"/> </a>
 </p>
- -->
+
 <div align="center">
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
